@@ -16,7 +16,7 @@ public class P14215 {
             third = temp;
         }
 
-        if( second + third > first && second == third ) {
+        if( second + third > first) {
             System.out.println(first + second + third);
             return;
         }
