@@ -1,6 +1,7 @@
+package Gold;
 import java.util.Scanner;
 
-public class P12745{
+public class P10986{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
